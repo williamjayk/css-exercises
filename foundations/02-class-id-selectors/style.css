@@ -1,0 +1,19 @@
+.p1, .p2, .p3 {
+    background-color:salmon;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 18px;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.p2 {
+    font-size: 24px;
+}
+
+#div2 {
+    background-color: greenyellow;
+    font: 24px, bold;
+}
